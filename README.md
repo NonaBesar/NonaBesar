@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NonaBesar
 - 👀 I’m interested in programming languages and designs
-- 🌱 I’m currently learning Java web with Spring Bot
+- 🌱 I’m currently learning Java Spring Boot, Angular, Kotlin and React JS
 - 💞️ I’m looking to collaborate on - NONE
 - 📫 How to reach me - NONE
 
